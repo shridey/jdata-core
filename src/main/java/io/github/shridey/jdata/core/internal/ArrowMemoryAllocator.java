@@ -1,4 +1,4 @@
-package io.github.shridey.jdata.core.column;
+package io.github.shridey.jdata.core.internal;
 
 import java.lang.foreign.Arena;
 import java.lang.foreign.MemorySegment;

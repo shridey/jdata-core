@@ -2,6 +2,7 @@ package io.github.shridey.jdata.core.ffi;
 
 import io.github.shridey.jdata.core.ArrowColumn;
 import io.github.shridey.jdata.core.ArrowType;
+import io.github.shridey.jdata.core.internal.ArrowCStructs;
 
 import java.lang.foreign.Arena;
 import java.lang.foreign.FunctionDescriptor;

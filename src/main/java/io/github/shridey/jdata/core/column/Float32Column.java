@@ -1,6 +1,7 @@
 package io.github.shridey.jdata.core.column;
 
 import io.github.shridey.jdata.core.ArrowType;
+import io.github.shridey.jdata.core.internal.ArrowMemoryAllocator;
 
 import java.lang.foreign.Arena;
 import java.lang.foreign.MemorySegment;

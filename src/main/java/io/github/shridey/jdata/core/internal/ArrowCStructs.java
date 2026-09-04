@@ -1,4 +1,4 @@
-package io.github.shridey.jdata.core.ffi;
+package io.github.shridey.jdata.core.internal;
 
 import java.lang.foreign.MemoryLayout;
 import java.lang.foreign.StructLayout;
